@@ -83,7 +83,7 @@
                 
                 mysqli_close($conn);
 
-                echo("<meta http-equiv='refresh' content='5'>");
+                //echo("<meta http-equiv='refresh' content='5'>");
             ?>
             <style>
                 h1 {text-align:center;
